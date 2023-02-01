@@ -1,0 +1,36 @@
+.diceBtn {
+    width: 50px;
+    height: 50px;
+    outline: none;
+    border: none;
+    background-color: white;
+    border-radius: 3px;
+    box-shadow: 2px 2px 8px rgba(5, 5, 5, 0.25);
+    font-size: 5vh;
+    font-weight: bold;
+    margin: 4px;
+    cursor: pointer;
+}
+
+.dicesBoard {
+    width: 300px;
+    height: fit-content;
+    text-align: center;
+    padding: 2em;
+    margin: 5em auto;
+    border: 1px inset grey;
+    border-radius: 8px;
+}
+
+.rollBtn {
+    width: 150px;
+    border: none;
+    padding: 8px;
+    background-color: blue;
+    color: white;
+    border-radius: 23px;
+    margin-block: 32px 0;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 2.5vh;
+}
